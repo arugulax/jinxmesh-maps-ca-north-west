@@ -1,0 +1,728 @@
+{
+ "name": "yukon",
+ "format": "JMVM 4",
+ "group": 40424,
+ "bytes": 2550053849,
+ "pieces": [
+  {
+   "file": "yukon-1.jmv",
+   "bytes": 38139450,
+   "sha256": "ab12100ba060300b24b6ec85d6311748995215b4a4f9449447ac4d0027dd072a",
+   "south": 68.39918,
+   "west": -141.28418,
+   "north": 69.9303,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-2.jmv",
+   "bytes": 35375881,
+   "sha256": "afb938e94bb0651765b686ca0560a75e9d4c371b8385641bf209fbc37d6848f8",
+   "south": 68.39918,
+   "west": -139.92188,
+   "north": 69.6418,
+   "east": -136.27441
+  },
+  {
+   "file": "yukon-3.jmv",
+   "bytes": 37237996,
+   "sha256": "07586a841bb44de7d40d43bb905579068409a7ce9224d33218de3372f857d56d",
+   "south": 67.33986,
+   "west": -141.24023,
+   "north": 68.39918,
+   "east": -137.10938
+  },
+  {
+   "file": "yukon-4.jmv",
+   "bytes": 29308085,
+   "sha256": "94db85641f496d92f0419dd6c058080e6e093902c97e6fdae7e79165038814b9",
+   "south": 67.33986,
+   "west": -137.10938,
+   "north": 68.39918,
+   "east": -136.01074
+  },
+  {
+   "file": "yukon-5.jmv",
+   "bytes": 34327829,
+   "sha256": "a110f98b0a4ea2e050ef605085d9438a2119f4a9383ea692a910592a529faccf",
+   "south": 65.94647,
+   "west": -141.24023,
+   "north": 67.33986,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-6.jmv",
+   "bytes": 22376994,
+   "sha256": "686814c6c6dbbc884acd7e975f7adef3b496ffe2f726baa8ebe052d798b5e044",
+   "south": 66.51326,
+   "west": -139.92188,
+   "north": 67.33986,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-7.jmv",
+   "bytes": 23947542,
+   "sha256": "1933a2d806f1f47f6c2151b28f61fb493392ee9a93b543f76b34bb2f1d97a8bb",
+   "south": 66.51326,
+   "west": -137.8125,
+   "north": 67.33986,
+   "east": -135.70312
+  },
+  {
+   "file": "yukon-8.jmv",
+   "bytes": 32030085,
+   "sha256": "cc4cb718d5551f00026f6d923977dd2bc697fd720ceb7ebbfcd6b799220f791a",
+   "south": 65.94647,
+   "west": -135.70312,
+   "north": 67.03316,
+   "east": -132.23145
+  },
+  {
+   "file": "yukon-9.jmv",
+   "bytes": 23596867,
+   "sha256": "862512040734c0e01fb466f23bd4ea3ea5f62295d4e8da38b5767c2ccb6fcf6c",
+   "south": 65.94647,
+   "west": -139.92188,
+   "north": 66.51326,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-10.jmv",
+   "bytes": 20627631,
+   "sha256": "deb75d044c882fb83527ae3efdfb1c05981ad572ab9250218753b843eeb01568",
+   "south": 65.94647,
+   "west": -137.8125,
+   "north": 66.51326,
+   "east": -135.70312
+  },
+  {
+   "file": "yukon-11.jmv",
+   "bytes": 33295916,
+   "sha256": "6e9fe0821d489a45014a1b2cde4a9429331f4250c4a5d8ae2e7d0f6cfdd67294",
+   "south": 65.36684,
+   "west": -141.19629,
+   "north": 65.94647,
+   "east": -139.21875
+  },
+  {
+   "file": "yukon-12.jmv",
+   "bytes": 40444202,
+   "sha256": "a7d88055b0f1e738fd7e19bb4134656e0a7d9ba4b4dfdeb8551988d1698e7711",
+   "south": 64.77413,
+   "west": -139.21875,
+   "north": 65.94647,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-13.jmv",
+   "bytes": 20302979,
+   "sha256": "d1a0290b210f0f6e1d7cb11319d78e08def4b2b5c600967018a6e353ab220258",
+   "south": 65.36684,
+   "west": -137.8125,
+   "north": 65.94647,
+   "east": -136.40625
+  },
+  {
+   "file": "yukon-14.jmv",
+   "bytes": 37258496,
+   "sha256": "7b124e2b63702a9823049bc1395ebd12b7784f5986892579bd1bd4a691e4c4b5",
+   "south": 65.07213,
+   "west": -136.40625,
+   "north": 65.94647,
+   "east": -134.29688
+  },
+  {
+   "file": "yukon-15.jmv",
+   "bytes": 35189440,
+   "sha256": "772fcf88eb071a0ab6aa5e5d4706043ae13d7cca8817f4971cc2f0c6a2cc61d7",
+   "south": 65.07213,
+   "west": -134.29688,
+   "north": 65.94647,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-16.jmv",
+   "bytes": 30849349,
+   "sha256": "005f7d307cbdfcbe1a36c3d3d556dccf8a7b4de73985319ba825c9a0e65db259",
+   "south": 64.77413,
+   "west": -132.89062,
+   "north": 65.94647,
+   "east": -131.96777
+  },
+  {
+   "file": "yukon-17.jmv",
+   "bytes": 36419279,
+   "sha256": "f18ab9beffe590d8692dbf1c309d1deedfb326eb417bd9bdce9bb0e4fde1a91a",
+   "south": 64.77413,
+   "west": -141.19629,
+   "north": 65.36684,
+   "east": -139.21875
+  },
+  {
+   "file": "yukon-18.jmv",
+   "bytes": 27332610,
+   "sha256": "21c1b4e8f7e6ae8ce582cf2328176702a181b560471ed33fc814b29208f93370",
+   "south": 64.77413,
+   "west": -137.8125,
+   "north": 65.36684,
+   "east": -136.40625
+  },
+  {
+   "file": "yukon-19.jmv",
+   "bytes": 30591842,
+   "sha256": "d2df9c022c9328b10b8fd086d36c9cd957156df806abaf6055e0e489e7d47d9e",
+   "south": 64.77413,
+   "west": -136.40625,
+   "north": 65.07213,
+   "east": -134.29688
+  },
+  {
+   "file": "yukon-20.jmv",
+   "bytes": 27194763,
+   "sha256": "289b23c7ffd0a4b4b6469c383ea5493bcab931b798a39db4b3929e6cc9959201",
+   "south": 64.77413,
+   "west": -134.29688,
+   "north": 65.07213,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-21.jmv",
+   "bytes": 34232099,
+   "sha256": "8560996f690005b23c1eb56c78a0ef9d3747cdaf568e78b76aa3c36db343d698",
+   "south": 63.86004,
+   "west": -141.19629,
+   "north": 64.77413,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-22.jmv",
+   "bytes": 26204409,
+   "sha256": "ba3dd1980b2693f2559196ab697d397878622c0e28509a06d52922aaff70e3b1",
+   "south": 63.86004,
+   "west": -139.92188,
+   "north": 64.77413,
+   "east": -139.21875
+  },
+  {
+   "file": "yukon-23.jmv",
+   "bytes": 20009476,
+   "sha256": "2a5053e8400e706f58dfcc60e7d5d66c4be66fd3b5e6d119a715751bec7a5875",
+   "south": 64.47279,
+   "west": -139.21875,
+   "north": 64.77413,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-24.jmv",
+   "bytes": 35948800,
+   "sha256": "6eec3993f0a416b1798977c52dbede6fb929025b905da3139d7d9a0f4cf75fb4",
+   "south": 64.16811,
+   "west": -137.8125,
+   "north": 64.77413,
+   "east": -136.40625
+  },
+  {
+   "file": "yukon-25.jmv",
+   "bytes": 36512230,
+   "sha256": "4ade752e8f4fd59facf383159fc1707537a92edf10f30374aaedea83f597e03b",
+   "south": 64.16811,
+   "west": -136.40625,
+   "north": 64.77413,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-26.jmv",
+   "bytes": 42401888,
+   "sha256": "a537798653e027dc8b743aa18312cc9de0d0d41f4b488200b0904e2f56e37d70",
+   "south": 64.16811,
+   "west": -135.0,
+   "north": 64.77413,
+   "east": -133.59375
+  },
+  {
+   "file": "yukon-27.jmv",
+   "bytes": 43565678,
+   "sha256": "9295ab36e3130bdfeca2707769289f501da7571a554c670c9093b2e1c4c15d4d",
+   "south": 64.16811,
+   "west": -133.59375,
+   "north": 64.77413,
+   "east": -132.1875
+  },
+  {
+   "file": "yukon-28.jmv",
+   "bytes": 39250817,
+   "sha256": "a3bf18bf978c621a47c50bdf4ec65cac1a1d4ae1f1a151a1d30e835d9ca6c836",
+   "south": 63.54855,
+   "west": -132.1875,
+   "north": 64.77413,
+   "east": -131.48438
+  },
+  {
+   "file": "yukon-29.jmv",
+   "bytes": 26895039,
+   "sha256": "fd1d1fd0b501ec271f85ad3d223b0358354358cc4e1b24b4fbe9d0f0344c79c4",
+   "south": 63.86004,
+   "west": -131.48438,
+   "north": 64.60504,
+   "east": -130.03418
+  },
+  {
+   "file": "yukon-30.jmv",
+   "bytes": 30109934,
+   "sha256": "ff31eae56121e06c031d546c113a743e47900b84000c0c228830953da945e287",
+   "south": 63.86004,
+   "west": -139.21875,
+   "north": 64.47279,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-31.jmv",
+   "bytes": 29344556,
+   "sha256": "48031936c7cb5d6fcecc30e45f3d8e7bd9aef642812923b0bce2ee17af088b63",
+   "south": 63.54855,
+   "west": -137.8125,
+   "north": 64.16811,
+   "east": -136.40625
+  },
+  {
+   "file": "yukon-32.jmv",
+   "bytes": 21923119,
+   "sha256": "f8bc1f741138c9646462d00cbaad30fb78a43864ab8e1a89324d45e866939049",
+   "south": 63.54855,
+   "west": -136.40625,
+   "north": 64.16811,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-33.jmv",
+   "bytes": 42689946,
+   "sha256": "0b2ac6cf126fa0d657599e13f757cf1cbe3165ec2163425f76408c1255734807",
+   "south": 62.91523,
+   "west": -135.0,
+   "north": 64.16811,
+   "east": -133.59375
+  },
+  {
+   "file": "yukon-34.jmv",
+   "bytes": 27783164,
+   "sha256": "61f46c3e68f05ee8ccca274c2bdcc4741907ea242e6cf94fd81892f63c8ed752",
+   "south": 63.54855,
+   "west": -133.59375,
+   "north": 64.16811,
+   "east": -132.1875
+  },
+  {
+   "file": "yukon-35.jmv",
+   "bytes": 28786131,
+   "sha256": "3431ea7eb6c06e8febcd4d1755ef3fa573099cd6e8cec50f6aaffecc6e1105e9",
+   "south": 62.91523,
+   "west": -141.15234,
+   "north": 63.86004,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-36.jmv",
+   "bytes": 23344377,
+   "sha256": "8ba46bd57d51f190a27aa00e9c5601a33a0184ac14fd8d2ae1d11cd352c46c88",
+   "south": 62.91523,
+   "west": -139.92188,
+   "north": 63.86004,
+   "east": -139.21875
+  },
+  {
+   "file": "yukon-37.jmv",
+   "bytes": 37153877,
+   "sha256": "4f7c2ef5a279b0550726d85027d2c9918dad5e9d6e5b2e84ef7f889faaf9fe09",
+   "south": 62.91523,
+   "west": -139.21875,
+   "north": 63.86004,
+   "east": -137.8125
+  },
+  {
+   "file": "yukon-38.jmv",
+   "bytes": 22828364,
+   "sha256": "0dace2599f44b536cd8eb73cb66dad40982f1a2951b3f9e112dc07dbd63ede3e",
+   "south": 63.54855,
+   "west": -131.48438,
+   "north": 63.86004,
+   "east": -129.77051
+  },
+  {
+   "file": "yukon-39.jmv",
+   "bytes": 17884731,
+   "sha256": "f59ef59fe7f14a7c95d9ea77f39eb45805d9351b65449843b3f567da995ec420",
+   "south": 62.91523,
+   "west": -137.8125,
+   "north": 63.54855,
+   "east": -136.40625
+  },
+  {
+   "file": "yukon-40.jmv",
+   "bytes": 25261880,
+   "sha256": "40a265baaf6efb8b1992441e5e9b4c8a5d08dcfdc054bb9b5a9608584283f708",
+   "south": 62.91523,
+   "west": -136.40625,
+   "north": 63.54855,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-41.jmv",
+   "bytes": 23702683,
+   "sha256": "529ae77e31f0da758a159fdbe277f2e3f5ff11bf269a6282ef64fef9abd954d1",
+   "south": 62.91523,
+   "west": -133.59375,
+   "north": 63.54855,
+   "east": -132.1875
+  },
+  {
+   "file": "yukon-42.jmv",
+   "bytes": 38591968,
+   "sha256": "0bf7f60e82f5a9cfcf3f67498bcf6bb45d5e62bc9f669be6a1d1975f1c5960d8",
+   "south": 62.91523,
+   "west": -132.1875,
+   "north": 63.54855,
+   "east": -130.78125
+  },
+  {
+   "file": "yukon-43.jmv",
+   "bytes": 25745617,
+   "sha256": "4f559f261a052f880a17be47f5492e840cc9c013ec50522203c01602d2f2b04a",
+   "south": 62.91523,
+   "west": -130.78125,
+   "north": 63.54855,
+   "east": -129.50684
+  },
+  {
+   "file": "yukon-44.jmv",
+   "bytes": 31612424,
+   "sha256": "c89d33fd9e75aaa4852d8cb735860091e8008c1a32123a3e35d0491e12ede9d1",
+   "south": 61.93895,
+   "west": -141.15234,
+   "north": 62.91523,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-45.jmv",
+   "bytes": 38922737,
+   "sha256": "0310fce3be1505709730123ca854a2d4e052af46089bf69e4ead1e783dd155b6",
+   "south": 61.93895,
+   "west": -139.92188,
+   "north": 62.91523,
+   "east": -138.51562
+  },
+  {
+   "file": "yukon-46.jmv",
+   "bytes": 34536647,
+   "sha256": "8ce3977babdaa5701d8d5255a8f6654d6d49d6f0edd40d39071d4fdcfccc7c67",
+   "south": 61.93895,
+   "west": -138.51562,
+   "north": 62.91523,
+   "east": -137.10938
+  },
+  {
+   "file": "yukon-47.jmv",
+   "bytes": 43300898,
+   "sha256": "b314ec9f160553d2178241b00ddbfa88778e6b664bd04934533eb72357183c69",
+   "south": 61.93895,
+   "west": -137.10938,
+   "north": 62.91523,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-48.jmv",
+   "bytes": 37686777,
+   "sha256": "6975c8d68123fff7eb0697b4e97d5182865b4271d653b6c5d4a9cee468a26bcb",
+   "south": 62.26792,
+   "west": -135.0,
+   "north": 62.91523,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-49.jmv",
+   "bytes": 31115842,
+   "sha256": "a35e4c9a855a63e1cf5143f3a45516ec4db1543cb8b9fa1d7e861151cf26802f",
+   "south": 62.26792,
+   "west": -132.89062,
+   "north": 62.91523,
+   "east": -130.78125
+  },
+  {
+   "file": "yukon-50.jmv",
+   "bytes": 31680822,
+   "sha256": "8cb0d23a0e11676a6eaaeae8b0de48ca7ae069d7c28d239cec3c2863d5b2d103",
+   "south": 62.26792,
+   "west": -130.78125,
+   "north": 62.91523,
+   "east": -128.67188
+  },
+  {
+   "file": "yukon-51.jmv",
+   "bytes": 43066210,
+   "sha256": "4c21e6bd6e325fd52cb97aff203f74b94bc0170459e38a49e19266f6b7b72664",
+   "south": 61.6064,
+   "west": -135.0,
+   "north": 62.26792,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-52.jmv",
+   "bytes": 30485324,
+   "sha256": "41c4fdd6efff33e397cd936d104e8c742f83323b7a964e902d4a5610ee7bbefb",
+   "south": 61.6064,
+   "west": -132.89062,
+   "north": 62.26792,
+   "east": -130.78125
+  },
+  {
+   "file": "yukon-53.jmv",
+   "bytes": 41457577,
+   "sha256": "4c558ec132ce28fb36058e6e6565c882117576b8a954f21d848ee3650e7309a8",
+   "south": 61.6064,
+   "west": -130.78125,
+   "north": 62.26792,
+   "east": -128.67188
+  },
+  {
+   "file": "yukon-54.jmv",
+   "bytes": 40547967,
+   "sha256": "1ba3190812f00e8928cbbc10d6ad83772ecc4671ad01abf04d2ab44174dfd420",
+   "south": 61.27023,
+   "west": -128.67188,
+   "north": 62.26792,
+   "east": -127.26562
+  },
+  {
+   "file": "yukon-55.jmv",
+   "bytes": 31995801,
+   "sha256": "b64cf3efbaf1b388ad4d70f149dd467f3f06d19c7719623f566c066e1c1e1a70",
+   "south": 61.27023,
+   "west": -141.15234,
+   "north": 61.93895,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-56.jmv",
+   "bytes": 33695095,
+   "sha256": "8138001221db67887a2b0725cf87ae99bd054a29e43afaa3e23a4da725735358",
+   "south": 61.27023,
+   "west": -139.92188,
+   "north": 61.93895,
+   "east": -138.51562
+  },
+  {
+   "file": "yukon-57.jmv",
+   "bytes": 28037396,
+   "sha256": "4d177175d68936a4f208b3e8def50e60dde05437bc12b8586ae451693ee223a6",
+   "south": 61.27023,
+   "west": -138.51562,
+   "north": 61.93895,
+   "east": -137.10938
+  },
+  {
+   "file": "yukon-58.jmv",
+   "bytes": 30015468,
+   "sha256": "3374b6ca914b115de42f611cb6e0d33f11458a235ce2511dc7a9910912221dfd",
+   "south": 61.27023,
+   "west": -137.10938,
+   "north": 61.93895,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-59.jmv",
+   "bytes": 42553409,
+   "sha256": "4b71dfbd76c3d1e3ec9c32fc6a7f77b2f1366b14745d1e24317cc3e468dff43d",
+   "south": 60.93043,
+   "west": -135.0,
+   "north": 61.6064,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-60.jmv",
+   "bytes": 41550589,
+   "sha256": "2ec45a2a2c789cf4ff302afca997d843fec7b0d76d5619aada72ed86c94ffbc5",
+   "south": 60.93043,
+   "west": -132.89062,
+   "north": 61.6064,
+   "east": -130.78125
+  },
+  {
+   "file": "yukon-61.jmv",
+   "bytes": 42044608,
+   "sha256": "634b6d93b61b8932ea17738937e03126abca25d5b1b66d779adaf093dbedf15b",
+   "south": 60.93043,
+   "west": -130.78125,
+   "north": 61.6064,
+   "east": -128.67188
+  },
+  {
+   "file": "yukon-62.jmv",
+   "bytes": 33243849,
+   "sha256": "a8765ef461849596a143a32314989bc46365b6eb57a78f27ed629228a1af907d",
+   "south": 59.97701,
+   "west": -127.26562,
+   "north": 61.56457,
+   "east": -125.85938
+  },
+  {
+   "file": "yukon-63.jmv",
+   "bytes": 29972194,
+   "sha256": "7a6b6dca9fd88caa2ecfc447e837519908ab48e0784ffc7228681063b8b7ec06",
+   "south": 60.93043,
+   "west": -141.1084,
+   "north": 61.27023,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-64.jmv",
+   "bytes": 23864437,
+   "sha256": "89d3aefafe0d753d9b49628e7c2c42db1c3e9bbb46ad9d8a291141f2038ad219",
+   "south": 60.58697,
+   "west": -139.92188,
+   "north": 61.27023,
+   "east": -139.21875
+  },
+  {
+   "file": "yukon-65.jmv",
+   "bytes": 28903639,
+   "sha256": "fad885c42997fc89891d3fa0436cae65d06a9ffc6de0576f346f4a6bc1136ea3",
+   "south": 60.58697,
+   "west": -139.21875,
+   "north": 61.27023,
+   "east": -138.51562
+  },
+  {
+   "file": "yukon-66.jmv",
+   "bytes": 33408986,
+   "sha256": "c207eb9e5632e19f1a9d1960769fc6e8181395f3439feffc0068bdba27504d11",
+   "south": 60.58697,
+   "west": -138.51562,
+   "north": 61.27023,
+   "east": -137.10938
+  },
+  {
+   "file": "yukon-67.jmv",
+   "bytes": 40190102,
+   "sha256": "f231cd5254611ec6e4c139440cf7cfe04535271f71dc82026e40af432761b01e",
+   "south": 60.58697,
+   "west": -137.10938,
+   "north": 61.27023,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-68.jmv",
+   "bytes": 26072191,
+   "sha256": "13723970c38980c246ff828f482284b25ad5441f64751396716d54c65a0a09d9",
+   "south": 60.58697,
+   "west": -128.67188,
+   "north": 61.27023,
+   "east": -127.26562
+  },
+  {
+   "file": "yukon-69.jmv",
+   "bytes": 38629577,
+   "sha256": "38169d23e0ace48949992d295da1c89981944681688612ff0bac4939346289ad",
+   "south": 59.97701,
+   "west": -125.85938,
+   "north": 61.03701,
+   "east": -123.75
+  },
+  {
+   "file": "yukon-70.jmv",
+   "bytes": 23047315,
+   "sha256": "9f866a0d1718326701fbc74df5c82e1e9536e2bdb16b592bffa0be4921bb8f7f",
+   "south": 60.58697,
+   "west": -141.1084,
+   "north": 60.93043,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-71.jmv",
+   "bytes": 21703012,
+   "sha256": "418fd447ec0add2a8ec649a120a39ed41c6dde9f18e5d937f74c0d83938a6d12",
+   "south": 59.97701,
+   "west": -135.0,
+   "north": 60.93043,
+   "east": -134.29688
+  },
+  {
+   "file": "yukon-72.jmv",
+   "bytes": 29700604,
+   "sha256": "87b3f736e7531544c49b510b127c2d88df22e0a39ee117cfc160a18a03da061a",
+   "south": 59.97701,
+   "west": -134.29688,
+   "north": 60.93043,
+   "east": -132.89062
+  },
+  {
+   "file": "yukon-73.jmv",
+   "bytes": 38862319,
+   "sha256": "255efb9afcd56154895172d2e8209c4eda3dbd85c2080ec99c518622a9bd8e70",
+   "south": 59.97701,
+   "west": -132.89062,
+   "north": 60.93043,
+   "east": -130.78125
+  },
+  {
+   "file": "yukon-74.jmv",
+   "bytes": 40484404,
+   "sha256": "3fb3c2604f8c1b91dcf71595d181a54bc7ed3761f4295fe5d48ceed3e42f70be",
+   "south": 59.97701,
+   "west": -130.78125,
+   "north": 60.93043,
+   "east": -128.67188
+  },
+  {
+   "file": "yukon-75.jmv",
+   "bytes": 27884989,
+   "sha256": "004925743506496947cd6bb95ad83d457b36f0fe7a51d58ee6952afdc4376cbe",
+   "south": 60.13056,
+   "west": -141.15234,
+   "north": 60.58697,
+   "east": -139.92188
+  },
+  {
+   "file": "yukon-76.jmv",
+   "bytes": 41995219,
+   "sha256": "5fa463c4e085ca5813c0160e49d990ff4969a4ed5483ff8a3e24c07239f21f02",
+   "south": 59.95501,
+   "west": -139.92188,
+   "north": 60.58697,
+   "east": -138.51562
+  },
+  {
+   "file": "yukon-77.jmv",
+   "bytes": 34590235,
+   "sha256": "09829a6a30e3a1c22ae5f698c1b49838b8d89a29929cdd38148aff39643237f0",
+   "south": 59.97701,
+   "west": -138.51562,
+   "north": 60.58697,
+   "east": -137.10938
+  },
+  {
+   "file": "yukon-78.jmv",
+   "bytes": 29963984,
+   "sha256": "5e5a6b6858e2de135a68ee19a897006c02b61d224a0f0f9dd21f2efc14395c7b",
+   "south": 59.97701,
+   "west": -137.10938,
+   "north": 60.58697,
+   "east": -135.70312
+  },
+  {
+   "file": "yukon-79.jmv",
+   "bytes": 18157903,
+   "sha256": "171ad890d89a2bb59a12fb73fb5b22180af4b8a5f7d983da79445ce478320e55",
+   "south": 59.97701,
+   "west": -135.70312,
+   "north": 60.58697,
+   "east": -135.0
+  },
+  {
+   "file": "yukon-80.jmv",
+   "bytes": 19055280,
+   "sha256": "67a650cb6ae1b073060bbbd04e2901002461d334787471ab8fa66b51167b2c5e",
+   "south": 59.97701,
+   "west": -128.67188,
+   "north": 60.58697,
+   "east": -127.26562
+  }
+ ]
+}
