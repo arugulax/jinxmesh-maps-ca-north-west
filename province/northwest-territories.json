@@ -1,0 +1,1043 @@
+{
+ "name": "northwest-territories",
+ "format": "JMVM 4",
+ "group": 29061,
+ "bytes": 3089958167,
+ "pieces": [
+  {
+   "file": "northwest-territories-1.jmv",
+   "bytes": 20665022,
+   "sha256": "7b53e9d9c788a78c1f284906bca3ca54c85bdae9d32644b8d191b263bf771e49",
+   "south": 76.185,
+   "west": -116.71875,
+   "north": 79.16308,
+   "east": -109.73145
+  },
+  {
+   "file": "northwest-territories-2.jmv",
+   "bytes": 20914054,
+   "sha256": "0f0ba44f003cbfe0785f62ab2a32d07046ca48a627f2ab3b5e706da31ce40015",
+   "south": 76.185,
+   "west": -123.88184,
+   "north": 77.86958,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-3.jmv",
+   "bytes": 22844120,
+   "sha256": "11ba0f2b37b2bd233020b3f77f067d82a0a68d737705aa885cd14c00aeefde79",
+   "south": 75.49716,
+   "west": -124.14551,
+   "north": 76.185,
+   "east": -115.3125
+  },
+  {
+   "file": "northwest-territories-4.jmv",
+   "bytes": 25791905,
+   "sha256": "664c08584c5aceca02269afd3d78f630c7b2524bce35b2ec6ad592c3296d2823",
+   "south": 75.49716,
+   "west": -115.3125,
+   "north": 76.185,
+   "east": -109.81934
+  },
+  {
+   "file": "northwest-territories-5.jmv",
+   "bytes": 26096535,
+   "sha256": "258143e1f5fc09f78112e39d2645aedaf505c4cefbcafa0c76741cce2a741ef3",
+   "south": 73.42842,
+   "west": -125.81543,
+   "north": 75.49716,
+   "east": -120.23438
+  },
+  {
+   "file": "northwest-territories-6.jmv",
+   "bytes": 25011749,
+   "sha256": "0150ccb7cb696f5fed7db8169cfb1504a9655ebf4f8df1c358227bd7ec919a0d",
+   "south": 73.42842,
+   "west": -120.23438,
+   "north": 75.49716,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-7.jmv",
+   "bytes": 24517154,
+   "sha256": "121ea6e52a876a74673acfc8014b5b0370c16b8ae6ae886afd40febb84a52f3c",
+   "south": 75.14078,
+   "west": -116.71875,
+   "north": 75.49716,
+   "east": -109.81934
+  },
+  {
+   "file": "northwest-territories-8.jmv",
+   "bytes": 21854736,
+   "sha256": "7aad10ce5de8f4c11397b7504ce1351a4e54f15c2da4b3746f1336b0013c0432",
+   "south": 73.42842,
+   "west": -116.71875,
+   "north": 75.14078,
+   "east": -109.81934
+  },
+  {
+   "file": "northwest-territories-9.jmv",
+   "bytes": 23904248,
+   "sha256": "ed11f77d41013d3f98b7c2508fc55ac72a4ccc78944cd107eeaa318d675d523c",
+   "south": 72.1818,
+   "west": -126.43066,
+   "north": 73.42842,
+   "east": -120.9375
+  },
+  {
+   "file": "northwest-territories-10.jmv",
+   "bytes": 20259895,
+   "sha256": "c029851c0723919fa6521196860e6738ed117f3cafa0b3a743a8b1066b98f3ab",
+   "south": 72.39571,
+   "west": -120.9375,
+   "north": 73.42842,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-11.jmv",
+   "bytes": 24930873,
+   "sha256": "a52e4c000d94fa2935879d56dbcf6004cd7b6fb9c48fd00c153d3b7c0e911006",
+   "south": 71.96539,
+   "west": -116.71875,
+   "north": 73.42842,
+   "east": -113.20312
+  },
+  {
+   "file": "northwest-territories-12.jmv",
+   "bytes": 21715440,
+   "sha256": "3824d9522f7398aa730e60f7be9460dc6f95ba2c6c428fc0e01c1f03952801c5",
+   "south": 71.96539,
+   "west": -113.20312,
+   "north": 73.02259,
+   "east": -109.86328
+  },
+  {
+   "file": "northwest-territories-13.jmv",
+   "bytes": 22635316,
+   "sha256": "5351b348eff3b209f09e904a20ef5494d18664e7a46cd31be12b773c033be386",
+   "south": 70.84467,
+   "west": -120.9375,
+   "north": 72.39571,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-14.jmv",
+   "bytes": 22846768,
+   "sha256": "9969f5daf53f84b27c44f99f438e4297642b7d746f98cceccdfb87f8a4a13513",
+   "south": 70.84467,
+   "west": -128.62793,
+   "north": 72.1818,
+   "east": -120.9375
+  },
+  {
+   "file": "northwest-territories-15.jmv",
+   "bytes": 27537460,
+   "sha256": "05c5dafd15532ca117237cfba38194ae6e17b22c1793b8f103a6a24c082bfda5",
+   "south": 70.84467,
+   "west": -116.71875,
+   "north": 71.96539,
+   "east": -113.20312
+  },
+  {
+   "file": "northwest-territories-16.jmv",
+   "bytes": 23083123,
+   "sha256": "081d89a05d3482638f73fbbaf9faf06d63f037b28114f806890be5b7f345d517",
+   "south": 70.84467,
+   "west": -113.20312,
+   "north": 71.96539,
+   "east": -109.90723
+  },
+  {
+   "file": "northwest-territories-17.jmv",
+   "bytes": 22435107,
+   "sha256": "1750d2529564bf2453ae9feb4877d4bd6013022be3ca0c54003877086ff3ff30",
+   "south": 68.911,
+   "west": -130.78125,
+   "north": 70.84467,
+   "east": -127.26562
+  },
+  {
+   "file": "northwest-territories-18.jmv",
+   "bytes": 28386627,
+   "sha256": "b98495daaabf096691925a6070900373c07d245e52a931fb171512288cdb4ebf",
+   "south": 66.79191,
+   "west": -120.9375,
+   "north": 70.84467,
+   "east": -116.01562
+  },
+  {
+   "file": "northwest-territories-19.jmv",
+   "bytes": 24844690,
+   "sha256": "db3eaa87f0589a4aecae03d57093ab1e95fd1aced0d32b292ea30d2d083865b0",
+   "south": 69.79414,
+   "west": -116.01562,
+   "north": 70.84467,
+   "east": -109.90723
+  },
+  {
+   "file": "northwest-territories-20.jmv",
+   "bytes": 24644859,
+   "sha256": "0c8f850d2372b2de460169acd08bfde4c85003899dac20741a1b84f33c9c53e2",
+   "south": 68.65655,
+   "west": -136.75781,
+   "north": 70.40735,
+   "east": -130.78125
+  },
+  {
+   "file": "northwest-territories-21.jmv",
+   "bytes": 22551066,
+   "sha256": "71cb6e3f8b0157a7efe2c81b528513bbc363f966f973f3536f496b4b4c3ef3bd",
+   "south": 68.911,
+   "west": -127.26562,
+   "north": 70.30393,
+   "east": -123.04688
+  },
+  {
+   "file": "northwest-territories-22.jmv",
+   "bytes": 22009299,
+   "sha256": "a906725134d464766c2ac5d4e01f212705dfe0d5d32b3e8a31d2d8b6ac50e6e0",
+   "south": 68.13885,
+   "west": -123.04688,
+   "north": 69.88501,
+   "east": -120.9375
+  },
+  {
+   "file": "northwest-territories-23.jmv",
+   "bytes": 21011922,
+   "sha256": "dd5bbae69ce9a87105fd8cd7978626b596329215ba2b628307644eee5ed5e4b2",
+   "south": 68.13885,
+   "west": -130.78125,
+   "north": 68.911,
+   "east": -127.26562
+  },
+  {
+   "file": "northwest-territories-24.jmv",
+   "bytes": 26453065,
+   "sha256": "f1c18deeef184ecd9f57b0f4c79706097088d8ba78bb4380a42d595fc4067b09",
+   "south": 68.13885,
+   "west": -127.26562,
+   "north": 68.911,
+   "east": -123.04688
+  },
+  {
+   "file": "northwest-territories-25.jmv",
+   "bytes": 23601459,
+   "sha256": "7e87fac1db0f556f9c10a3fd804e62fb0687654b9c45e7c61fb917353f0521d2",
+   "south": 68.13885,
+   "west": -136.66992,
+   "north": 68.65655,
+   "east": -130.78125
+  },
+  {
+   "file": "northwest-territories-26.jmv",
+   "bytes": 20152563,
+   "sha256": "dc95be4f8ce15e3e6f4f82396160a7cd5279d59c0dcdfa2505a24e335b555de4",
+   "south": 66.96448,
+   "west": -136.58203,
+   "north": 68.13885,
+   "east": -135.70312
+  },
+  {
+   "file": "northwest-territories-27.jmv",
+   "bytes": 30725748,
+   "sha256": "fd93beafe6a756d51cf45c68cfc3a0855447942c010303f1bce8c9be1c0605ad",
+   "south": 66.79191,
+   "west": -135.70312,
+   "north": 68.13885,
+   "east": -132.1875
+  },
+  {
+   "file": "northwest-territories-28.jmv",
+   "bytes": 23173506,
+   "sha256": "18ce01890ecb38c7f772a84a327c0776fdc25ecf8fc9acac08bbad90db968e2c",
+   "south": 66.79191,
+   "west": -132.1875,
+   "north": 68.13885,
+   "east": -130.07812
+  },
+  {
+   "file": "northwest-territories-29.jmv",
+   "bytes": 28202242,
+   "sha256": "082db552f8940ad850cd9d81641b2bc0c61487c413dd19a34bfb8911b2bf7c3b",
+   "south": 66.79191,
+   "west": -130.07812,
+   "north": 68.13885,
+   "east": -127.26562
+  },
+  {
+   "file": "northwest-territories-30.jmv",
+   "bytes": 21304699,
+   "sha256": "8837df5aa7818fc355075300b4371b01855dadc896789bd867cd5039bd35e83c",
+   "south": 66.79191,
+   "west": -127.26562,
+   "north": 68.13885,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-31.jmv",
+   "bytes": 24066952,
+   "sha256": "8d8746913e5b05dd6cc6852e57dd4d3026830fa62caea8fdf38c06c8f14b9129",
+   "south": 66.79191,
+   "west": -125.15625,
+   "north": 68.13885,
+   "east": -123.04688
+  },
+  {
+   "file": "northwest-territories-32.jmv",
+   "bytes": 23157760,
+   "sha256": "af96e6e6e3d3ce2679dce31482baa7a83b91b9513f084f18219f064e86c63d7d",
+   "south": 66.79191,
+   "west": -123.04688,
+   "north": 68.13885,
+   "east": -120.9375
+  },
+  {
+   "file": "northwest-territories-33.jmv",
+   "bytes": 38795759,
+   "sha256": "833cc4e3f200ebfdd903977ec2086372ad9be5cb92cb16a50d2506efd3954d20",
+   "south": 65.07213,
+   "west": -134.12109,
+   "north": 66.79191,
+   "east": -131.48438
+  },
+  {
+   "file": "northwest-territories-34.jmv",
+   "bytes": 28160226,
+   "sha256": "ce29b22e748ed85279cff3a7eda41baed0b43aeb9fbb42d6d661e75e23a24f8b",
+   "south": 65.07213,
+   "west": -131.48438,
+   "north": 66.79191,
+   "east": -130.07812
+  },
+  {
+   "file": "northwest-territories-35.jmv",
+   "bytes": 35848091,
+   "sha256": "864263bb2a21d3d0dd7e69d667dc7ca075a20b78394d6a090796a5d28b771de3",
+   "south": 65.36684,
+   "west": -130.07812,
+   "north": 66.79191,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-36.jmv",
+   "bytes": 28030692,
+   "sha256": "3b9099f3ba8505b6ee6899d1c1f0c867d814a31b31e7fe11f02b38dae154ff80",
+   "south": 64.77413,
+   "west": -126.5625,
+   "north": 66.79191,
+   "east": -124.45312
+  },
+  {
+   "file": "northwest-territories-37.jmv",
+   "bytes": 23193975,
+   "sha256": "19deeb796c5aca109c9496da6a3c05be082a7c79e8492faf84f3fe6b573fb7ab",
+   "south": 64.77413,
+   "west": -124.45312,
+   "north": 66.79191,
+   "east": -121.64062
+  },
+  {
+   "file": "northwest-territories-38.jmv",
+   "bytes": 24423489,
+   "sha256": "fa257a3c00b89735b2f50dc92b540ef4f6b4790acd126a7335a4d57637237126",
+   "south": 65.07213,
+   "west": -121.64062,
+   "north": 66.79191,
+   "east": -118.125
+  },
+  {
+   "file": "northwest-territories-39.jmv",
+   "bytes": 33962359,
+   "sha256": "2d3815bfc9f75d0759069bc1f1bb2eb04e5b4a964128346808978f974f2a1bb8",
+   "south": 65.07213,
+   "west": -118.125,
+   "north": 66.79191,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-40.jmv",
+   "bytes": 26545228,
+   "sha256": "1405adfe22657dc73646d766c478d39fec83a54421ef89cfdef6da9dacf2b20a",
+   "south": 65.65827,
+   "west": -116.71875,
+   "north": 66.79191,
+   "east": -113.90625
+  },
+  {
+   "file": "northwest-territories-41.jmv",
+   "bytes": 24792446,
+   "sha256": "4187151bd310d8d60d6c39118394c58e7e3db218f742614fb460abd3a4fa4da1",
+   "south": 64.77413,
+   "west": -113.90625,
+   "north": 66.03587,
+   "east": -111.09375
+  },
+  {
+   "file": "northwest-territories-42.jmv",
+   "bytes": 21569614,
+   "sha256": "34e6e432590b39d3bca10992b34b5dcdb815148b3fc50a70ea6ec5df421e8766",
+   "south": 65.07213,
+   "west": -116.71875,
+   "north": 65.65827,
+   "east": -113.90625
+  },
+  {
+   "file": "northwest-territories-43.jmv",
+   "bytes": 24297340,
+   "sha256": "e66d0772e321e2269885e77a321b7f93aa2a75f37a88b9a27c41f55718cce6f9",
+   "south": 63.86004,
+   "west": -111.09375,
+   "north": 65.56755,
+   "east": -107.57812
+  },
+  {
+   "file": "northwest-territories-44.jmv",
+   "bytes": 32214260,
+   "sha256": "972afc54cc57b29621a488842f581ddd4ad51294ccb2f20b8849e6923073add9",
+   "south": 64.77413,
+   "west": -130.07812,
+   "north": 65.36684,
+   "east": -128.67188
+  },
+  {
+   "file": "northwest-territories-45.jmv",
+   "bytes": 24954405,
+   "sha256": "07b594fd4b9211cf5949f32412195fddf779363cdf5b72d875e43aa06eb0a67e",
+   "south": 64.77413,
+   "west": -128.67188,
+   "north": 65.36684,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-46.jmv",
+   "bytes": 41641424,
+   "sha256": "e89db87f225b98d726bb071497bc5a809831635faa6e4b2b4edeba3bf3d24efd",
+   "south": 64.77413,
+   "west": -132.84668,
+   "north": 65.07213,
+   "east": -130.07812
+  },
+  {
+   "file": "northwest-territories-47.jmv",
+   "bytes": 23918446,
+   "sha256": "16f36c33f9733d2d27222b51001393dd6b83a0e323c505d029deefa47ca13392",
+   "south": 63.86004,
+   "west": -121.64062,
+   "north": 65.07213,
+   "east": -118.82812
+  },
+  {
+   "file": "northwest-territories-48.jmv",
+   "bytes": 28178775,
+   "sha256": "afd60e9286de3d1e357376ad5f321690813ad604e3445262b27cc8c1b942a22d",
+   "south": 63.86004,
+   "west": -118.82812,
+   "north": 65.07213,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-49.jmv",
+   "bytes": 24604587,
+   "sha256": "bfa4bf182d18c1b929c970d6834e608e8724f48e9d721b4a37f817e2b064e106",
+   "south": 63.86004,
+   "west": -116.71875,
+   "north": 65.07213,
+   "east": -115.3125
+  },
+  {
+   "file": "northwest-territories-50.jmv",
+   "bytes": 18927417,
+   "sha256": "e37425fcfb5baeb10df1441acfbeff36398c6297e8089ad14604c79c364e3bca",
+   "south": 63.86004,
+   "west": -115.3125,
+   "north": 65.07213,
+   "east": -113.90625
+  },
+  {
+   "file": "northwest-territories-51.jmv",
+   "bytes": 39341961,
+   "sha256": "0523177a5b5486412d41efd525bc8b1c42c9b89c9e7766df1e795c1770ab6694",
+   "south": 63.89873,
+   "west": -132.6709,
+   "north": 64.77413,
+   "east": -130.78125
+  },
+  {
+   "file": "northwest-territories-52.jmv",
+   "bytes": 32896601,
+   "sha256": "bf79200325a50a829bbd3c4d554d3a26de249f9d8339b1380b793b5ee0965cb3",
+   "south": 63.86004,
+   "west": -130.78125,
+   "north": 64.77413,
+   "east": -130.07812
+  },
+  {
+   "file": "northwest-territories-53.jmv",
+   "bytes": 40088655,
+   "sha256": "99367c21ab2bcf7f9faaf2327435d66383a73719b9c1aad405052f5704cffa5f",
+   "south": 64.16811,
+   "west": -130.07812,
+   "north": 64.77413,
+   "east": -128.67188
+  },
+  {
+   "file": "northwest-territories-54.jmv",
+   "bytes": 25502316,
+   "sha256": "c0da3deebad4b4facb60c862a85ec651f0a47ba7d4026823ee5aed3e01fedc70",
+   "south": 63.86004,
+   "west": -128.67188,
+   "north": 64.77413,
+   "east": -127.96875
+  },
+  {
+   "file": "northwest-territories-55.jmv",
+   "bytes": 39311672,
+   "sha256": "073b191e786af9c33b8fddb3d9ecb4d106aa5219f306f18647c216a79270a905",
+   "south": 63.86004,
+   "west": -127.96875,
+   "north": 64.77413,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-56.jmv",
+   "bytes": 23506370,
+   "sha256": "3e0c27a2ebc2157b2ed32f678e8e924dc21a1b96432d77535bac5d8f1ef0fce0",
+   "south": 63.86004,
+   "west": -126.5625,
+   "north": 64.77413,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-57.jmv",
+   "bytes": 26088371,
+   "sha256": "d1919ecfabb061764557e1c222f6ac68e8ddb5cee10167a63f6ea3dcb3002668",
+   "south": 63.86004,
+   "west": -125.15625,
+   "north": 64.77413,
+   "east": -121.64062
+  },
+  {
+   "file": "northwest-territories-58.jmv",
+   "bytes": 21023589,
+   "sha256": "7c3e6ccb4226bd41ea4ff18320aa93ade5e6615e06c2a53b483ffc7f2513aca3",
+   "south": 63.86004,
+   "west": -113.90625,
+   "north": 64.77413,
+   "east": -111.09375
+  },
+  {
+   "file": "northwest-territories-59.jmv",
+   "bytes": 24445845,
+   "sha256": "72fdd3421838770fd0626a5ac9787b2420c972ed713eead4aea532fa126f0b2e",
+   "south": 63.86004,
+   "west": -107.57812,
+   "north": 64.75539,
+   "east": -101.90918
+  },
+  {
+   "file": "northwest-territories-60.jmv",
+   "bytes": 24557025,
+   "sha256": "858c7b1eefa8f226790a4e8c2721682767db9f96951179da8acd147ba04d337e",
+   "south": 63.86004,
+   "west": -130.07812,
+   "north": 64.16811,
+   "east": -128.67188
+  },
+  {
+   "file": "northwest-territories-61.jmv",
+   "bytes": 28232741,
+   "sha256": "29e53a0ad0d18eb343c5d581de22e6d2a3768e7d197eafe5feda366842015a40",
+   "south": 62.91523,
+   "west": -130.7373,
+   "north": 63.86004,
+   "east": -129.375
+  },
+  {
+   "file": "northwest-territories-62.jmv",
+   "bytes": 29902920,
+   "sha256": "3bec6d446b7d955223fa6b2714a65505c39d9097f2ceda9cc1e60743743dba4b",
+   "south": 62.91523,
+   "west": -129.375,
+   "north": 63.86004,
+   "east": -128.67188
+  },
+  {
+   "file": "northwest-territories-63.jmv",
+   "bytes": 35567809,
+   "sha256": "92f282b42056658cc6fa0ddd6789ad0f3fc886f5f8b51e4e9d0f33b2f4989f0b",
+   "south": 62.91523,
+   "west": -128.67188,
+   "north": 63.86004,
+   "east": -127.96875
+  },
+  {
+   "file": "northwest-territories-64.jmv",
+   "bytes": 39136797,
+   "sha256": "e8469e0176e63bfae4693d2dc854c5b976847ad485ef35af79f34ea0b60a3ba8",
+   "south": 63.23363,
+   "west": -127.96875,
+   "north": 63.86004,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-65.jmv",
+   "bytes": 42709949,
+   "sha256": "810e0b73e1b2aa6a751f3d8c532472387ed555dae67d325f7169a00dd70513c2",
+   "south": 62.91523,
+   "west": -126.5625,
+   "north": 63.86004,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-66.jmv",
+   "bytes": 31181830,
+   "sha256": "cf4a5cfe8e934b970e3a36d05ba64388177e477b9683527f60ad8c02a9e39819",
+   "south": 62.59334,
+   "west": -125.15625,
+   "north": 63.86004,
+   "east": -123.75
+  },
+  {
+   "file": "northwest-territories-67.jmv",
+   "bytes": 28133368,
+   "sha256": "ad02eb61678287e418f2ed5b501ac53323dc76e2663e4c3c29ea20a2a74b20d5",
+   "south": 62.59334,
+   "west": -123.75,
+   "north": 63.86004,
+   "east": -122.34375
+  },
+  {
+   "file": "northwest-territories-68.jmv",
+   "bytes": 20616498,
+   "sha256": "f76224a9042bb60dc7f057d80bb4d4f7190b22dbd50e263f4727f46c92bac8d6",
+   "south": 62.59334,
+   "west": -122.34375,
+   "north": 63.86004,
+   "east": -119.53125
+  },
+  {
+   "file": "northwest-territories-69.jmv",
+   "bytes": 24723630,
+   "sha256": "551fcf8b63efa8e26e7bfa60e53ea978aa803c03462ad3057e75dcb551c9dc10",
+   "south": 62.59334,
+   "west": -119.53125,
+   "north": 63.86004,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-70.jmv",
+   "bytes": 22941094,
+   "sha256": "21459d025537bc90a694f34a71eb12d35603f8b03b269801fc92927a54d39dd6",
+   "south": 63.23363,
+   "west": -116.71875,
+   "north": 63.86004,
+   "east": -114.60938
+  },
+  {
+   "file": "northwest-territories-71.jmv",
+   "bytes": 32171366,
+   "sha256": "6a89a7259b2c5213daf8f0916e966b6d8a7b451c8519d91e685ffe047c69e979",
+   "south": 62.91523,
+   "west": -114.60938,
+   "north": 63.86004,
+   "east": -111.79688
+  },
+  {
+   "file": "northwest-territories-72.jmv",
+   "bytes": 24894742,
+   "sha256": "f11fb26a99e4a7b4225f1f7eaaceb793800147ebe59835bda82fbbf4f8a89f80",
+   "south": 62.59334,
+   "west": -111.79688,
+   "north": 63.86004,
+   "east": -109.6875
+  },
+  {
+   "file": "northwest-territories-73.jmv",
+   "bytes": 21041553,
+   "sha256": "c54333789c470c98dcedc35d147bb172b9ce4f8d4f3df53e334aad76b82a5270",
+   "south": 62.59334,
+   "west": -109.6875,
+   "north": 63.86004,
+   "east": -108.28125
+  },
+  {
+   "file": "northwest-territories-74.jmv",
+   "bytes": 22027003,
+   "sha256": "0f3063d97adf65814e3775cbaa0df0bbdb548d3b18e9173df295cb2662c6cfaf",
+   "south": 62.59334,
+   "west": -108.28125,
+   "north": 63.86004,
+   "east": -105.46875
+  },
+  {
+   "file": "northwest-territories-75.jmv",
+   "bytes": 22997186,
+   "sha256": "a8bd874c7a3bd8c838c7133b2d35a8c547731ed1362b9a61f7df4ed49ab573ac",
+   "south": 62.59334,
+   "west": -105.46875,
+   "north": 63.86004,
+   "east": -101.95312
+  },
+  {
+   "file": "northwest-territories-76.jmv",
+   "bytes": 25540883,
+   "sha256": "adee4d2fa6da5c6c2d81d8234d372f236fa9273e331bd0c2caac2d55d316d533",
+   "south": 62.91523,
+   "west": -127.96875,
+   "north": 63.23363,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-77.jmv",
+   "bytes": 23839072,
+   "sha256": "2ec89540be93b578d83d9091b8592ab8e99311edb20863ab3f69ff6852a257b8",
+   "south": 62.26792,
+   "west": -116.71875,
+   "north": 63.23363,
+   "east": -114.60938
+  },
+  {
+   "file": "northwest-territories-78.jmv",
+   "bytes": 22989559,
+   "sha256": "7160164cc186648476a03f348d151e71206ffcfa2317dbc73a12b30cb154c533",
+   "south": 62.26792,
+   "west": -129.90234,
+   "north": 62.91523,
+   "east": -128.67188
+  },
+  {
+   "file": "northwest-territories-79.jmv",
+   "bytes": 23952899,
+   "sha256": "95dd945743dfba2d135229efbd95dc49f6287fde5f428f2978977890d6a5fa81",
+   "south": 62.26792,
+   "west": -128.67188,
+   "north": 62.91523,
+   "east": -127.96875
+  },
+  {
+   "file": "northwest-territories-80.jmv",
+   "bytes": 27217442,
+   "sha256": "0c49b2f9109e98d22d392267fd48418640fbc61108cb0bdbec78cdf7cfbb8c1e",
+   "south": 62.26792,
+   "west": -127.96875,
+   "north": 62.91523,
+   "east": -127.26562
+  },
+  {
+   "file": "northwest-territories-81.jmv",
+   "bytes": 27654490,
+   "sha256": "6c648f80276d95fa191c96ab29e84084bb894015a2270c6681521234f16fd6aa",
+   "south": 62.26792,
+   "west": -127.26562,
+   "north": 62.91523,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-82.jmv",
+   "bytes": 25360235,
+   "sha256": "085edd5afed8a2ac495a8243d060b1c1c6faf904a6265cb035cf84637c770039",
+   "south": 62.59334,
+   "west": -126.5625,
+   "north": 62.91523,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-83.jmv",
+   "bytes": 22994897,
+   "sha256": "227de81dcc6818605fe880575e733b930e96a67c1bd65a3a4592e457ce9de860",
+   "south": 62.26792,
+   "west": -114.60938,
+   "north": 62.91523,
+   "east": -111.79688
+  },
+  {
+   "file": "northwest-territories-84.jmv",
+   "bytes": 27716135,
+   "sha256": "11a3e3d0d9f01dbae8eb33d044ecc2fd82d2ab2063a82735f6b27a1661046697",
+   "south": 61.93895,
+   "west": -126.5625,
+   "north": 62.59334,
+   "east": -125.85938
+  },
+  {
+   "file": "northwest-territories-85.jmv",
+   "bytes": 25324619,
+   "sha256": "3c2257201cc515a3e53815628723ae93e88ec24244d207ece77d9a39876c4078",
+   "south": 61.93895,
+   "west": -125.85938,
+   "north": 62.59334,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-86.jmv",
+   "bytes": 23103362,
+   "sha256": "f8f7aeeedbda9f3f139a7c7af60b5034d1dd86336a6ab69ca66e7407bff33061",
+   "south": 61.93895,
+   "west": -125.15625,
+   "north": 62.59334,
+   "east": -124.45312
+  },
+  {
+   "file": "northwest-territories-87.jmv",
+   "bytes": 27608786,
+   "sha256": "8f1a46c24bdfa4276ef838cea9c42e7b78e5221039955b2613b75f23418d141e",
+   "south": 61.93895,
+   "west": -124.45312,
+   "north": 62.59334,
+   "east": -122.34375
+  },
+  {
+   "file": "northwest-territories-88.jmv",
+   "bytes": 24518695,
+   "sha256": "ec28c3a805ca94b363d4db13f35a515a9c5978f386936bfab38b1062270c41cb",
+   "south": 61.6064,
+   "west": -122.34375,
+   "north": 62.59334,
+   "east": -119.53125
+  },
+  {
+   "file": "northwest-territories-89.jmv",
+   "bytes": 24095768,
+   "sha256": "339665dba286049a0194eb6234cbf59df108a3ec2645d26405b98e15ca66cf75",
+   "south": 61.6064,
+   "west": -119.53125,
+   "north": 62.59334,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-90.jmv",
+   "bytes": 22142735,
+   "sha256": "6b1bc3b35e839b0a627a7d82d332fb23524a89e40118ef1a4332fbbb2ccd7378",
+   "south": 61.6064,
+   "west": -111.79688,
+   "north": 62.59334,
+   "east": -110.39062
+  },
+  {
+   "file": "northwest-territories-91.jmv",
+   "bytes": 30241641,
+   "sha256": "395f8ac1a6672ab00115ca4354b5f3b32574efa72f8879cf76c0a4dc1644fa58",
+   "south": 61.6064,
+   "west": -110.39062,
+   "north": 62.59334,
+   "east": -108.28125
+  },
+  {
+   "file": "northwest-territories-92.jmv",
+   "bytes": 23070083,
+   "sha256": "5a2004a0bafedbc35d5892b8468c1fab98acfa9168f7262c9cefd1c3eccc0934",
+   "south": 61.6064,
+   "west": -108.28125,
+   "north": 62.59334,
+   "east": -105.46875
+  },
+  {
+   "file": "northwest-territories-93.jmv",
+   "bytes": 23033706,
+   "sha256": "6ebef944d57099d44542245268c3fc6dd8997a288cbd73483f7426479e708342",
+   "south": 61.6064,
+   "west": -105.46875,
+   "north": 62.59334,
+   "east": -101.95312
+  },
+  {
+   "file": "northwest-territories-94.jmv",
+   "bytes": 21733786,
+   "sha256": "18d079abff197c401c687b64ae4439562ce5a2589e8c47a8f9ccd4fee50cbe59",
+   "south": 61.64816,
+   "west": -129.46289,
+   "north": 62.26792,
+   "east": -127.96875
+  },
+  {
+   "file": "northwest-territories-95.jmv",
+   "bytes": 34591177,
+   "sha256": "0a7e51b237bed95a36cef0c921d6fe9bf83f1e492e28414c807b488a6cdc3468",
+   "south": 61.41775,
+   "west": -127.96875,
+   "north": 62.26792,
+   "east": -127.26562
+  },
+  {
+   "file": "northwest-territories-96.jmv",
+   "bytes": 42927559,
+   "sha256": "5c35c2ab7522e7c76089ee1179c3606974df551a9b8807f099e6461801a71199",
+   "south": 60.6947,
+   "west": -127.26562,
+   "north": 62.26792,
+   "east": -126.5625
+  },
+  {
+   "file": "northwest-territories-97.jmv",
+   "bytes": 20558643,
+   "sha256": "2eab4aa73ea82cde7567838dc2c85a651027b4d060cce2d3a74a24fa11f35bf4",
+   "south": 60.93043,
+   "west": -116.71875,
+   "north": 62.26792,
+   "east": -113.20312
+  },
+  {
+   "file": "northwest-territories-98.jmv",
+   "bytes": 22411714,
+   "sha256": "e21dfe41716d72e683aed0beb65268147eb5aee72a0399c8d0c1de36f283458c",
+   "south": 61.27023,
+   "west": -113.20312,
+   "north": 62.26792,
+   "east": -111.79688
+  },
+  {
+   "file": "northwest-territories-99.jmv",
+   "bytes": 42684765,
+   "sha256": "1ce447cb5a94b0c6b8f14ed6fbde5d48c15eaac9c117c8cf0fc45008ddeff81f",
+   "south": 61.27023,
+   "west": -126.5625,
+   "north": 61.93895,
+   "east": -125.15625
+  },
+  {
+   "file": "northwest-territories-100.jmv",
+   "bytes": 28584447,
+   "sha256": "75f5711e9f0ac6734866933ab41c69257b66023ddb2d9d1b8aae9ef6863d0d8a",
+   "south": 61.27023,
+   "west": -125.15625,
+   "north": 61.93895,
+   "east": -124.45312
+  },
+  {
+   "file": "northwest-territories-101.jmv",
+   "bytes": 34897126,
+   "sha256": "d770d53aabacb0179e8de582a0a644427ab06b2ac9e289ade2fdfb82333982ab",
+   "south": 61.27023,
+   "west": -124.45312,
+   "north": 61.93895,
+   "east": -122.34375
+  },
+  {
+   "file": "northwest-territories-102.jmv",
+   "bytes": 19439284,
+   "sha256": "51af719f9dd45c4b525ee9cb0335c62e96395841caaa788dbdb003e8adb0420e",
+   "south": 60.93043,
+   "west": -122.34375,
+   "north": 61.6064,
+   "east": -119.53125
+  },
+  {
+   "file": "northwest-territories-103.jmv",
+   "bytes": 20904150,
+   "sha256": "bb735c8266708d65803329050ca431319addb9747a2676a4ab25e8cb4ea4231a",
+   "south": 60.93043,
+   "west": -119.53125,
+   "north": 61.6064,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-104.jmv",
+   "bytes": 24620667,
+   "sha256": "f103bc959d9228a8ab03381a3fbfdcd52c44e9a1c552ac0cd8183c30656db5ab",
+   "south": 60.93043,
+   "west": -111.79688,
+   "north": 61.6064,
+   "east": -109.6875
+  },
+  {
+   "file": "northwest-territories-105.jmv",
+   "bytes": 39612204,
+   "sha256": "5cd97b3dd92d5e8f774f6537d375696a1e8d7011836818c6e4afca6faabe8a42",
+   "south": 59.97701,
+   "west": -109.6875,
+   "north": 61.6064,
+   "east": -108.28125
+  },
+  {
+   "file": "northwest-territories-106.jmv",
+   "bytes": 38279671,
+   "sha256": "5bf4eec17535a8cc460c015d2edc0f2b6ff1c052200ac4f55981a2f8d6ed4b26",
+   "south": 59.97701,
+   "west": -108.28125,
+   "north": 61.6064,
+   "east": -105.46875
+  },
+  {
+   "file": "northwest-territories-107.jmv",
+   "bytes": 38321638,
+   "sha256": "ea8f0b45a212401e2c3af2c6cfa9e282187ab439d397bae153ade4fda308c56d",
+   "south": 59.95501,
+   "west": -105.46875,
+   "north": 61.6064,
+   "east": -101.90918
+  },
+  {
+   "file": "northwest-territories-108.jmv",
+   "bytes": 33690573,
+   "sha256": "fd23d8b5ba3a818f8a2f0e1de0738e5c374f8b1a93e9a4df9a9bc500a57cf902",
+   "south": 60.41385,
+   "west": -126.5625,
+   "north": 61.27023,
+   "east": -124.45312
+  },
+  {
+   "file": "northwest-territories-109.jmv",
+   "bytes": 31564634,
+   "sha256": "c0c8973ed101721d34cbd57c18d56993bb9472ffe63a09b0dedec1ec27925116",
+   "south": 60.58697,
+   "west": -124.45312,
+   "north": 61.27023,
+   "east": -122.34375
+  },
+  {
+   "file": "northwest-territories-110.jmv",
+   "bytes": 26373282,
+   "sha256": "f657d9429e1256992c31e3864b99311a07ad60162c5d8e4145aa03a6cf065db2",
+   "south": 59.97701,
+   "west": -113.20312,
+   "north": 61.27023,
+   "east": -111.79688
+  },
+  {
+   "file": "northwest-territories-111.jmv",
+   "bytes": 25193066,
+   "sha256": "206e00308ccd99d69fb1cab6f3ec12146a15c8beb04e0a2d4107856312a20ee7",
+   "south": 59.97701,
+   "west": -122.34375,
+   "north": 60.93043,
+   "east": -119.53125
+  },
+  {
+   "file": "northwest-territories-112.jmv",
+   "bytes": 27548988,
+   "sha256": "c34e80f6b70353f05e3d1077a4bfb0faaff74d39d6e97eb8c031cf74d0fb36a7",
+   "south": 59.97701,
+   "west": -119.53125,
+   "north": 60.93043,
+   "east": -116.71875
+  },
+  {
+   "file": "northwest-territories-113.jmv",
+   "bytes": 25603021,
+   "sha256": "6b8a1440d7867e5dfbdcaa078249c76ce07b3463fec70ff65067d31dd61fea96",
+   "south": 59.97701,
+   "west": -116.71875,
+   "north": 60.93043,
+   "east": -113.20312
+  },
+  {
+   "file": "northwest-territories-114.jmv",
+   "bytes": 33478984,
+   "sha256": "9ff80ad96c17975ee73d0e1d0b6a759732e123940664e2c506a01b853f5606b7",
+   "south": 59.97701,
+   "west": -111.79688,
+   "north": 60.93043,
+   "east": -109.6875
+  },
+  {
+   "file": "northwest-territories-115.jmv",
+   "bytes": 18104395,
+   "sha256": "79cec19b9328092fc69a245c91924d774e93dc91a81d054408b2e85ece963fbb",
+   "south": 59.95501,
+   "west": -124.45312,
+   "north": 60.58697,
+   "east": -122.34375
+  }
+ ]
+}
